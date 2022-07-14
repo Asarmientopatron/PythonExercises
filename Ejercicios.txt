@@ -1,0 +1,21 @@
+1. Crear un programa que pida tres número e imprima en pantalla el menor producto posible entre dos de ellos.
+2. Crear un programa que pida una cadena de texto y que dependiendo de su longitud, imprima:
+- Si tiene 10 o menos caracteres, los primeros cinco
+- Si tiene entre 11 y 25, los primeros 15
+- Si tiene más de 25, todos
+3. Crear un programa que pida cuatro números e imprima el menor de todos.
+4. Crear un programa que pida un número e imprima su inverso aditivo (busca qué es si no lo sabes :P).
+5. Crear un programa que tome una lista (tipo de dato) de cinco números (contenido de la lista) e imprima
+en pantalla el mayor de ellos.
+6. Crear un programa que pida tres números y si el producto de todos es mayor que 30, imprima la media
+(busca qué es si no lo sabes :P), si está entre 31 y 49 imprima el valor del producto, y si es mayor que 50
+imprima en pantalla el texto 'El valor del producto supera los límites permitidos'
+
+Requerimientos transversales:
+1. Cada ejercicio debe hacer uso de por lo menos una estructura de control If.
+2. No se permiten usar otras estructuras de control diferentes a If (For, While, etc.).
+3. No se permiten usar métodos ni funciones que faciliten el desarrollo de las actividades.
+
+Éxitos Preciosa <3
+No tengo la menor duda de que puedes!!
+Te amo <3 <3 <3 <3 
